@@ -11,7 +11,7 @@ This folder contains the before-and-after videos for the VibeCoding task. The up
 
 The updated game code and implementation of the requested features are available here:
 
-**Game repository:** [PASTE YOUR GAME REPOSITORY URL HERE]
+**Game repository:** https://github.com/Diya-BR/32_lunarLander.git
 
 ## Changes Implemented
 
