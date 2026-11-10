@@ -7,13 +7,11 @@ This folder contains the before-and-after videos for the VibeCoding task. The up
 - `before.mp4` – Short video showing the game before the changes.
 - `after.mp4` – Short video showing the game after the changes.
 
-> Rename the filenames above if your videos use different names.
-
 ## Game Repository
 
 The updated game code and implementation of the requested features are available here:
 
-**Game repository:** [PASTE YOUR GAME REPOSITORY URL HERE]
+**Game repository:** https://github.com/Diya-BR/32_lunarLander.git
 
 ## Changes Implemented
 
