@@ -4,6 +4,8 @@
 
 **SRN:** PES1UG24AM097
 
+**To see the commits and other information see: ** https://github.com/Diya-BR/expense_tracker.git
+
 **Section:** B
 
 **Original repo:** https://github.com/SETAPESU26/L5_32_expense_tracker
