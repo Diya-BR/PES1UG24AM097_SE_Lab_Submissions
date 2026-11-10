@@ -4,7 +4,7 @@
 
 **SRN:** PES1UG24AM097
 
-**To see the commits and other information see: ** https://github.com/Diya-BR/expense_tracker.git
+**To see the commits and other information see:** https://github.com/Diya-BR/expense_tracker.git
 
 **Section:** B
 
