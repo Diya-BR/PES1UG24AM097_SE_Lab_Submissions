@@ -11,6 +11,7 @@ This repository contains the deliverables for Labs 1–4 completed as part of th
 | [Lab 3](lab-3/README.md) | Component Modelling & Architectural Pattern Selection | Compare architectural styles, select an appropriate style, and document the system with a UML component diagram and justification. |
 | [Lab 4](lab-4/README.md) | VibeCoding — Lunar Lander | Use an AI coding agent to fix and extend a Python/Pygame game, then track the changes with Git. |
 | [Lab 5](https://github.com/Diya-BR/expense_tracker.git) | Static Code Analysis - Personal Expense Tracker |Analyze code quality using static analysis tools, identify issues, and document improvements. |
+| [Lab 6](https://github.com/Diya-BR/lab-6-weather-alert) | Code and Branch Coverage Testing — Weather Alert | Write automated tests using pytest and coverage to achieve 100% code coverage and 100% branch coverage for a Python weather alert application. |
 
 ## Repository Structure
 
