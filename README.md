@@ -12,6 +12,7 @@ This repository contains the deliverables for Labs 1–4 completed as part of th
 | [Lab 4](lab-4/README.md) | VibeCoding — Lunar Lander | Use an AI coding agent to fix and extend a Python/Pygame game, then track the changes with Git. |
 | [Lab 5](https://github.com/Diya-BR/expense_tracker.git) | Static Code Analysis - Personal Expense Tracker |Analyze code quality using static analysis tools, identify issues, and document improvements. |
 | [Lab 6](https://github.com/Diya-BR/lab-6-weather-alert) | Code and Branch Coverage Testing — Weather Alert | Write automated tests using pytest and coverage to achieve 100% code coverage and 100% branch coverage for a Python weather alert application. |
+| [Lab 7](https://github.com/Diya-BR/lab-6-weather-alert) | Fuzz Testing — Weather Alert Classifier | Use Hypothesis and pytest to perform property-based fuzz testing, identify input validation bugs, improve error handling, and verify the robustness of a Python weather alert application. |
 
 ## Repository Structure
 
